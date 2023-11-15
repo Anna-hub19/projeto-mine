@@ -1,8 +1,8 @@
-# organo
+# projeto minecraft
 ## Tecnologias utilizadas no projeto
 * React
 * CSS
 * javascript
-## projeto organo, projeto feito no curso de react da Alura
+## projeto minecraft, projeto feito para montar equipes do jogo minecraft
 # link do projeto
-   <a href="https://organo-one-inky.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-organo-purple?style=for-the-badge&logo=aluraplayo&logoColor=white"></a>
+   <a href="https://projeto-mine-dun.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-minecraft-purple?style=for-the-badge&logo=aluraplayo&logoColor=white"></a>
